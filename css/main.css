@@ -39,7 +39,7 @@ h2 {
 @media only screen and (min-width: 38em) {
 
   html {
-    width: 110%;
+    font-size: 110%;
     line-height: 1.4;
   }
 
@@ -50,8 +50,8 @@ h2 {
   .box {
     background-color: rgba(0, 0, 0, .3);
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 65%;
     transform: translate(-50%, -50%);
     border-radius: 10px;
     color: #fff;
@@ -62,7 +62,7 @@ h2 {
 @media only screen and (min-width: 60em) {
 
   html {
-    width: 120%;
+    font-size: 120%;
     line-height: 1.5;
   }
 
@@ -71,7 +71,7 @@ h2 {
 @media only screen and (min-width: 90em) {
 
   html {
-    width: 130%;
+    font-size: 130%;
   }
 
 }
